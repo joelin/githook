@@ -11,7 +11,7 @@ import SimpleHTTPServer
 import commands
 
 '''mapping url to shell'''
-dicpath = {'/commonshell': '/home/jhsadmin/xhlin/svnworkspace/package.sh'}
+dicpath = {'/cstudy': '/home/jhsadmin/xhlin/ggzjs-tutorails/make.sh'}
 
 
 class HttpRequestHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
